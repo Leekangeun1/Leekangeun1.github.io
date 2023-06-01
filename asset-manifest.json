@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.107cd221.css",
+    "main.js": "/static/js/main.d0d39b1d.js",
+    "static/media/돋움체.ttf": "/static/media/돋움체.7204e975c22b973d429c.ttf",
+    "static/media/SingleDay.ttf": "/static/media/SingleDay.8b04b24274cfa03122f8.ttf",
+    "index.html": "/index.html",
+    "main.107cd221.css.map": "/static/css/main.107cd221.css.map",
+    "main.d0d39b1d.js.map": "/static/js/main.d0d39b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.107cd221.css",
+    "static/js/main.d0d39b1d.js"
+  ]
+}
