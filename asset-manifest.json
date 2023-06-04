@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aadf6f3.css",
-    "main.js": "/static/js/main.ce0d2f67.js",
+    "main.css": "/static/css/main.deef5e93.css",
+    "main.js": "/static/js/main.819003a0.js",
     "static/media/돋움체.ttf": "/static/media/돋움체.7204e975c22b973d429c.ttf",
     "static/media/SingleDay.ttf": "/static/media/SingleDay.8b04b24274cfa03122f8.ttf",
     "index.html": "/index.html",
-    "main.0aadf6f3.css.map": "/static/css/main.0aadf6f3.css.map",
-    "main.ce0d2f67.js.map": "/static/js/main.ce0d2f67.js.map"
+    "main.deef5e93.css.map": "/static/css/main.deef5e93.css.map",
+    "main.819003a0.js.map": "/static/js/main.819003a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aadf6f3.css",
-    "static/js/main.ce0d2f67.js"
+    "static/css/main.deef5e93.css",
+    "static/js/main.819003a0.js"
   ]
 }
