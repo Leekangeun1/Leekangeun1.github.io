@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.141598f7.css",
-    "main.js": "/static/js/main.32d9ee4b.js",
+    "main.js": "/static/js/main.5b05007b.js",
     "static/media/돋움체.ttf": "/static/media/돋움체.7204e975c22b973d429c.ttf",
     "static/media/KCC-Chassam.ttf": "/static/media/KCC-Chassam.84c273a7edab5ac9dac0.ttf",
     "static/media/The Jamsil 3 Regular.ttf": "/static/media/The Jamsil 3 Regular.65c3e10f005c849f4509.ttf",
     "static/media/SingleDay.ttf": "/static/media/SingleDay.8b04b24274cfa03122f8.ttf",
     "index.html": "/index.html",
     "main.141598f7.css.map": "/static/css/main.141598f7.css.map",
-    "main.32d9ee4b.js.map": "/static/js/main.32d9ee4b.js.map"
+    "main.5b05007b.js.map": "/static/js/main.5b05007b.js.map"
   },
   "entrypoints": [
     "static/css/main.141598f7.css",
-    "static/js/main.32d9ee4b.js"
+    "static/js/main.5b05007b.js"
   ]
 }
